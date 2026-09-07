@@ -11,4 +11,8 @@ rg={
         name="jk"
         location="eastus"
     }
+    rg4={
+        name="jkk"
+        location="eastus"
+    }
 }
