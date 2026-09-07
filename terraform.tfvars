@@ -7,4 +7,8 @@ rg={
         name="nk2"
         location="eastus"
     }
+    rg3={
+        name="jk"
+        location="eastus"
+    }
 }
